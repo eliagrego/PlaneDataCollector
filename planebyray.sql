@@ -1,0 +1,1 @@
+SELECT TS, Nplane FROM fieldstat WHERE ray=30 group BY TS ORDER BY TS ASC
